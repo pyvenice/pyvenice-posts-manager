@@ -1,0 +1,12 @@
+hashtag: "#PyVenice"
+content_path: "events"
+scan_folders: 3
+parser: generic
+mastodon:
+  instance: https://social.python.it
+  enabled: true
+buffer:
+  enabled: true
+devto:
+  enabled: false
+instagram_check: true
