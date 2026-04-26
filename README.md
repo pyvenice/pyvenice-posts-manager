@@ -1,6 +1,6 @@
 # pyvenice-posts-manager
 
-TODO: add description
+[Venice Python User Group](https://venice.python.it/) is a meetup community for anyone interested in Python - at all levels, from complete beginners to seasoned professionals - dedicated to promoting Python throughout the Veneto region.
 
 ## Prerequisites
 
