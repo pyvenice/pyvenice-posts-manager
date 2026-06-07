@@ -9,4 +9,4 @@ buffer:
   enabled: true
 devto:
   enabled: false
-instagram_check: true
+instagram_check: false

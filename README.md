@@ -69,6 +69,8 @@ Sections are optional: include a section only if the corresponding channel is ac
 
 2. On GitHub, open `Actions` > `Publish posts` > `Run workflow`. The workflow is manual (`workflow_dispatch`).
 
+   To test the whole run without creating any post or draft, enable the "Dry run" checkbox (or from CLI `gh workflow run publish.yml -f dry_run=true`): the steps still query the APIs and dedup, but log only.
+
 ### Checking character counts
 
 ```bash
@@ -82,8 +84,7 @@ Re-run `setup.sh` to pick up updates from github-actions-publish (e.g. new workf
 ```bash
 bash /path/to/github-actions-publish/template/setup.sh \
   --hashtag "#PyVenice" \
-  --mastodon-instance https://social.python.it \
-  --instagram-check
+  --mastodon-instance https://social.python.it
 ```
 
 The script asks before overwriting existing files: review the diff and keep your local changes.
