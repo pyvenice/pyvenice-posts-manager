@@ -58,3 +58,17 @@ La scaletta prevede un #workshop su n8n.
 E dopo, per chi vuole, resteremo lì per ( 🍸 | 🍺 ) e ( 🍕 | 🍔 ) e #networking ad oltranza ‼️
 
 @pythonitalia
+
+# short
+
+In collaborazione con il GDG Venezia, riproponiamo #n8n !
+
+🕖 Giovedì 23 luglio.
+
+📍 Alle ore 18:30 da DonQ a #Padova, registrazioni 👇
+https://l1nq.com/t4sz1ia
+
+🔴 Alle ore 19:00 su YouTube in #streaming, registrazioni 👇
+{url}
+
+@python_italia
