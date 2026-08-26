@@ -1,5 +1,5 @@
 ---
-date: 2026-06-11
+date: 2026-08-26
 images:
   - https://drive.google.com/file/d/1r1epLqvQCn-_1T_bJMSMRskB8mXctGhM/view
 url: https://www.meetup.com/pyvenice/events/312919625/
