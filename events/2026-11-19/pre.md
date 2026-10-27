@@ -1,6 +1,6 @@
 ---
 title: "Qwen su vLLm/GKE le cose che si sono rotte e nessuno ti dice"
-date: 2026-10-19
+date: 2026-11-19
 images:
   - https://drive.google.com/file/d/1KCqyg4FIJYOHh-L3ylyIwKwQl3mKz6mY/view
 url: https://www.meetup.com/it-it/pyvenice/events/312919642/
