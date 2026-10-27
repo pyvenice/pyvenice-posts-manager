@@ -15,7 +15,7 @@ In collaborazione con #GDGVicenza, ci spostiamo a #Vicenza.
 📍 Saremo ospitati dal GDG Vicenza, e potrete seguirci anche in #streaming su YouTube 🔴
 
 La scaletta prevede uno speech seguito da discussione.
-🗣 Mattia Carolo ci racconterà come fare girare Qweb su vLLM e infrastruttura Google GKE, attraverso le cose che si sono rotte davvero e nessuno tutorial ti ha mai detto.
+🗣 Mattia Carolo ci racconterà come fare girare Qwen su vLLM e infrastruttura Google GKE, attraverso le cose che si sono rotte davvero e nessuno tutorial ti ha mai detto.
 
 E dopo, per chi vuole, resteremo in zona per ( 🍸 | 🍺 ) e ( 🍕 | 🍔 ) e #networking ad oltranza ‼️
 
@@ -36,7 +36,7 @@ In collaborazione con #GDGVicenza, ci spostiamo a #Vicenza.
 📍 Ospitati dal GDG Vicenza.
 🔴 Saremo in #streaming su YouTube
 
-🗣 Mattia Carolo ci racconterà come fare girare Qweb su vLLM/GKE: le cose che si sono rotte nessuno ti dice.
+🗣 Mattia Carolo ci racconterà come fare girare Qwen su vLLM/GKE: le cose che si sono rotte nessuno ti dice.
 
 E dopo, per chi vuole, resteremo in zona per ( 🍸 | 🍺 ) e ( 🍕 | 🍔 ) e #networking ad oltranza ‼️
 
