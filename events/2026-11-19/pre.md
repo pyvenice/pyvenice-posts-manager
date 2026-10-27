@@ -1,5 +1,5 @@
 ---
-title: "Qwen su vLLm/GKE le cose che si sono rotte e nessuno ti dice"
+title: "LLM su vLLm/GKE le cose che si sono rotte e nessuno ti dice"
 date: 2026-11-19
 images:
   - https://drive.google.com/file/d/1KCqyg4FIJYOHh-L3ylyIwKwQl3mKz6mY/view
@@ -12,10 +12,10 @@ tags: [8, LLM, MLOps, self-hosting]
 In collaborazione con #GDGVicenza, ci spostiamo a #Vicenza.
 
 🕖 Ci troviamo giovedì 19 novembre alle ore 19:00
-📍 Saremo ospitati dal GDG Vicenza, e potrete seguirci anche in #streaming su YouTube 🔴
+📍 Saremo ospitati dal GDG Vicenza al Elevator Innovation Hub di Vicenza, ma potrete seguirci anche in #streaming su YouTube 🔴
 
 La scaletta prevede uno speech seguito da discussione.
-🗣 Mattia Carolo ci racconterà come fare girare Qwen su vLLM e infrastruttura Google GKE, attraverso le cose che si sono rotte davvero e nessuno tutorial ti ha mai detto.
+🗣 Mattia Carolo ci racconterà come fare girare un #LLM su vLLM e infrastruttura Google GKE, attraverso le cose che si sono rotte davvero e nessuno tutorial ti ha mai detto.
 
 E dopo, per chi vuole, resteremo in zona per ( 🍸 | 🍺 ) e ( 🍕 | 🍔 ) e #networking ad oltranza ‼️
 
@@ -33,10 +33,10 @@ Python Italia
 In collaborazione con #GDGVicenza, ci spostiamo a #Vicenza.
 
 🕖 Ci troviamo giovedì 19 novembre alle ore 19:00
-📍 Ospitati dal GDG Vicenza.
+📍 Ospitati dal GDG Vicenza al Elevator Innovation Hub.
 🔴 Saremo in #streaming su YouTube
 
-🗣 Mattia Carolo ci racconterà come fare girare Qwen su vLLM/GKE: le cose che si sono rotte nessuno ti dice.
+🗣 Mattia Carolo ci racconterà come fare girare un #LLM su vLLM/GKE: le cose che si sono rotte nessuno ti dice.
 
 E dopo, per chi vuole, resteremo in zona per ( 🍸 | 🍺 ) e ( 🍕 | 🍔 ) e #networking ad oltranza ‼️
 
@@ -53,7 +53,7 @@ Info e prenotazioni 👇
 In collaborazione con #GDGVicenza!
 
 🕖 Ci troviamo giovedì 19 novembre, ore 19:00
-📍 Ospitati dal GDG Vicenza.
+📍 Ospitati dal GDG Vicenza al Elevator Innovation Hub di Vicenza.
 🔴 Saremo in #streaming su YouTube
 
 Info e prenotazioni 👇
